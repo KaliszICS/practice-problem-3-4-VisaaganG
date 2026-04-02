@@ -6,7 +6,7 @@ Return the smallest of the three integers.</br>
 </br>
 
 2. Create a method called isLeapYear() that takes in an integer as a parameter. 
-Check if the year is a leap year. To figure out if it is a leap year follow the following steps.</br>
+ Check if the year is a leap year. To figure out if it is a leap year follow the following steps.</br>
 
 		1. If the year is evenly divisible by 4 go to step 2. else go to step 4.
 		2. If the year is evenly divisible by 100 go to step 3. else go to step 5.
